@@ -1,0 +1,6 @@
+C:\Users\IEUser\Downloads\Molot_4\ClassLibrary_Molot4\bin\Debug\ClassLibrary_Molot4.dll
+C:\Users\IEUser\Downloads\Molot_4\ClassLibrary_Molot4\bin\Debug\ClassLibrary_Molot4.pdb
+C:\Users\IEUser\Downloads\Molot_4\ClassLibrary_Molot4\obj\Debug\ClassLibrary_Molot4.csprojResolveAssemblyReference.cache
+C:\Users\IEUser\Downloads\Molot_4\ClassLibrary_Molot4\obj\Debug\ClassLibrary_Molot4.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\Molot_4\ClassLibrary_Molot4\obj\Debug\ClassLibrary_Molot4.dll
+C:\Users\IEUser\Downloads\Molot_4\ClassLibrary_Molot4\obj\Debug\ClassLibrary_Molot4.pdb
